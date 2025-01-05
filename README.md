@@ -20,23 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Folder para venda de cartões de crédito 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Montei um folder para facilitar a venda de cartões de crédito na sala de autoatendimento.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Power Point
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei montando as ideias com os dados do site da Caixa, em seguida pedi para o ChatGPT reescrever como se fosse um profisional de marketing.
+Em seguida entrei com as imagens e organizei o layout do folder.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+document/folderpronto.png
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Ache muito legal, pois dessa forma conseguimos colocar um pouco da aprendizagem em prática, incluive até para fazer as tarefas dentro do GitHub estou utilizando a coloboração do ChatGPT rsrs, pois é meu primeiro contato com muitas dessas ferramentas apresentadas no bootcamp.
 
 ### Exemplos e Insigths
 
